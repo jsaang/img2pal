@@ -1,11 +1,11 @@
 Package: img2pal
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Convert Images to Palettes & Sample Palettes
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Date: 2017-12-30
+Authors@R: c(person('Sang-Hyeon', 'Chul', role = c('aut', 'cre'),
+                     email = 'shk5660@gmail.com'))
+Description: Convert images to palettes using k-means clustering.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
