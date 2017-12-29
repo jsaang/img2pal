@@ -9,3 +9,4 @@ Description: Convert images to palettes using k-means clustering.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
